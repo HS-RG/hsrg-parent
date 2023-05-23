@@ -14,10 +14,10 @@
     <name>hsrg-parent</name>
     <description>hsrg-parent</description>
     <modules>
-        <module>../gateway-main</module>
-        <module>../auth-main</module>
-        <module>../feign-main</module>
-        <module>../user-main</module>
+        <module>../gateway</module>
+        <module>../auth</module>
+        <module>../feign</module>
+        <module>../user</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
