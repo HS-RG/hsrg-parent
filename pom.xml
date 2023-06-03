@@ -20,6 +20,8 @@
         <module>../user</module>
         <module>../utils</module>
         <module>../file</module>
+        <module>../like</module>
+        <module>../comment</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
